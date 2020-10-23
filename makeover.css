@@ -1,0 +1,10 @@
+body
+{
+    background-image: url("https://img.freepik.com/free-photo/beauty-orchid-gray-background_120872-1591.jpg?size=626&ext=jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.nav-link
+{
+    background-color:rgb(43, 110, 75);
+}
